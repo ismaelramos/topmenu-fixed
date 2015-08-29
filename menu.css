@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.menu1{
+	position:fixed;
+	top:0px;
+	width:100%;
+	background-color:black;
+	text-align:center;
+	color:white;
+	transition: background-color 0.4s;
+}
+
+.menu1:hover{
+	background-color:#333;
+}
+
